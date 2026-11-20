@@ -4,7 +4,7 @@
   "name": "Swiggy",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/SWIGGY/",
-  "mcap_cr": 49149.0,
+  "mcap_cr": 49189.0,
   "price": 178.0,
   "high": 422.0,
   "low": 174.0,
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": -55.0
+            "value": -54.0
           }
         ]
       },
@@ -458,7 +458,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-20T18:02:10.788735+05:30",
-  "generated_at_ist": "20 Nov 2026, 18:02 IST",
+  "generated_at": "2026-11-21T04:33:19.784195+05:30",
+  "generated_at_ist": "21 Nov 2026, 04:33 IST",
   "source": "screener"
 }

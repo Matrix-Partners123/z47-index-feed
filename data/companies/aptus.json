@@ -505,5 +505,5 @@
   "source": "screener",
   "refresh_status": "cached",
   "refresh_error": "HTTP Error 429: Too Many Requests",
-  "last_attempt_at": "2026-11-20T18:10:07.275077+05:30"
+  "last_attempt_at": "2026-11-21T04:42:09.660370+05:30"
 }

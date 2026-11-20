@@ -4,7 +4,7 @@
   "name": "Groww",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/GROWW/",
-  "mcap_cr": 140848.0,
+  "mcap_cr": 140886.0,
   "price": 225.0,
   "high": 233.0,
   "low": 142.0,
@@ -258,7 +258,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": 43.0
+            "value": 42.0
           }
         ]
       },
@@ -418,7 +418,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-20T18:01:57.369279+05:30",
-  "generated_at_ist": "20 Nov 2026, 18:01 IST",
+  "generated_at": "2026-11-21T04:33:06.468949+05:30",
+  "generated_at_ist": "21 Nov 2026, 04:33 IST",
   "source": "screener"
 }

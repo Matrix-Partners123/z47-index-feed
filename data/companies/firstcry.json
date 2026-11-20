@@ -4,7 +4,7 @@
   "name": "FirstCry",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/FIRSTCRY/",
-  "mcap_cr": 8877.0,
+  "mcap_cr": 8886.0,
   "price": 170.0,
   "high": 322.0,
   "low": 156.0,
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": -47.0
+            "value": -46.0
           }
         ]
       },
@@ -464,7 +464,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-20T18:04:26.460545+05:30",
-  "generated_at_ist": "20 Nov 2026, 18:04 IST",
+  "generated_at": "2026-11-21T04:42:00.822749+05:30",
+  "generated_at_ist": "21 Nov 2026, 04:42 IST",
   "source": "screener"
 }

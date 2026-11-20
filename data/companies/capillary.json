@@ -4,11 +4,11 @@
   "name": "Capillary Technologies",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/CAPILLARY/",
-  "mcap_cr": 4097.0,
+  "mcap_cr": 4104.0,
   "price": 515.0,
   "high": 799.0,
   "low": 438.0,
-  "pe": 56.2,
+  "pe": 56.3,
   "roce": 3.42,
   "roe": 2.95,
   "about": "Incorporated in 2012, Capillary Technologies India Ltd is a leading Indian software-as-a-service (SaaS) company that specializes in customer loyalty and engagement solutions.[1]",
@@ -270,7 +270,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": null
+            "value": -15.0
           }
         ]
       },
@@ -412,7 +412,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-20T18:13:08.414856+05:30",
-  "generated_at_ist": "20 Nov 2026, 18:13 IST",
+  "generated_at": "2026-11-21T04:45:21.423203+05:30",
+  "generated_at_ist": "21 Nov 2026, 04:45 IST",
   "source": "screener"
 }
