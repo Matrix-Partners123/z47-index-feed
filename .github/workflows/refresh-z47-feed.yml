@@ -2,13 +2,11 @@ name: Refresh Z47'47 feed
 
 # Index: NSE-session snapshots. Companies: after NSE and US close + manual run.
 # The z47-index-data Cloudflare Worker dispatches this on time (GitHub's own schedule starts hours late):
-# scope "index" every 15 min in market hours, "all" after the NSE and US closes.
+# scope "index" every 15 min in market hours, "all" 45 min after the EverythingDesign feed's after-close runs.
+# GitHub's own schedule is off in this copy while the EverythingDesign feed still runs: a late scheduled run
+# could call Screener at the same time as that feed, and Screener refuses overlapping runs (HTTP 429).
+# Put the crons back ("30 4-9", "45 10", "15 22" on weekdays) when the EverythingDesign feed is retired.
 on:
-  schedule:
-    - cron: "30 4-9 * * 1-5"
-    - cron: "45 10 * * 1-5"
-    # After US close in both EST and EDT (03:45 IST next day).
-    - cron: "15 22 * * 1-5"
   workflow_dispatch:
     inputs:
       scope:
