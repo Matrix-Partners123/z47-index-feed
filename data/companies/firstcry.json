@@ -4,7 +4,7 @@
   "name": "FirstCry",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/FIRSTCRY/",
-  "mcap_cr": 8883.0,
+  "mcap_cr": 8877.0,
   "price": 170.0,
   "high": 322.0,
   "low": 156.0,
@@ -20,7 +20,7 @@
   "nse_url": "https://www.nseindia.com/get-quotes/equity?symbol=FIRSTCRY",
   "screener_id": "1284885",
   "ratios_ok": 6,
-  "daily_pct": -2.69,
+  "daily_pct": -2.56,
   "screener_consolidated": true,
   "financial_basis": "consolidated",
   "financial_source_url": "https://www.screener.in/company/FIRSTCRY/consolidated/",
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": -46.0
+            "value": -47.0
           }
         ]
       },
@@ -464,7 +464,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-20T16:27:05.914185+05:30",
-  "generated_at_ist": "20 Nov 2026, 16:27 IST",
+  "generated_at": "2026-11-20T18:04:26.460545+05:30",
+  "generated_at_ist": "20 Nov 2026, 18:04 IST",
   "source": "screener"
 }
