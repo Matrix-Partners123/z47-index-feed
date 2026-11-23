@@ -4,7 +4,7 @@
   "name": "BlueStone",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/BLUESTONE/",
-  "mcap_cr": 10167.0,
+  "mcap_cr": 10175.0,
   "price": 665.0,
   "high": 971.0,
   "low": 400.0,
@@ -216,7 +216,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": 17.0
+            "value": 20.0
           }
         ]
       },
@@ -364,7 +364,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:15:06.102365+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:15 IST",
+  "generated_at": "2026-11-24T04:45:32.241646+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:45 IST",
   "source": "screener"
 }

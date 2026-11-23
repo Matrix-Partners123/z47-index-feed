@@ -4,11 +4,11 @@
   "name": "Nykaa",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/NYKAA/",
-  "mcap_cr": 102575.0,
+  "mcap_cr": 102293.0,
   "price": 357.0,
   "high": 368.0,
   "low": 219.0,
-  "pe": 309.0,
+  "pe": 308.0,
   "roce": 17.2,
   "roe": 15.3,
   "about": "FSN E-commerce Ventures Ltd. (FSNEV) popularly known as \"Nykaa\" is a digitally native consumer technology platform, delivering a content-led, lifestyle retail experience to consumers. The company has a diverse portfolio of beauty, personal care, and fashion products, including owned brand products manufactured by it.[1]",
@@ -198,13 +198,13 @@
         "key": "dividend_payout",
         "label": "Dividend Payout %",
         "values": [
-          "-0%",
-          "-0%",
-          "-0%",
-          "-0%",
-          "-0%",
-          "-0%",
-          "-0%"
+          "0%",
+          "0%",
+          "0%",
+          "0%",
+          "0%",
+          "0%",
+          "0%"
         ]
       }
     ],
@@ -276,7 +276,7 @@
           {
             "key": "5y",
             "label": "5 Years:",
-            "value": -1.0
+            "value": -2.0
           },
           {
             "key": "3y",
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": 33.0
+            "value": 32.0
           }
         ]
       },
@@ -500,7 +500,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:03:56.110923+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:03 IST",
+  "generated_at": "2026-11-24T04:34:10.338275+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:34 IST",
   "source": "screener"
 }

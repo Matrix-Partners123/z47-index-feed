@@ -4,7 +4,7 @@
   "name": "Angel One",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/ANGELONE/",
-  "mcap_cr": 30866.0,
+  "mcap_cr": 30840.0,
   "price": 337.0,
   "high": 379.0,
   "low": 209.0,
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": 23.0
+            "value": 26.0
           }
         ]
       },
@@ -524,7 +524,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:04:14.243988+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:04 IST",
+  "generated_at": "2026-11-24T04:34:28.987813+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:34 IST",
   "source": "screener"
 }

@@ -4,7 +4,7 @@
   "name": "Meesho",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/MEESHO/",
-  "mcap_cr": 117220.0,
+  "mcap_cr": 117234.0,
   "price": 253.0,
   "high": 265.0,
   "low": 126.0,
@@ -404,7 +404,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:09:47.939857+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:09 IST",
+  "generated_at": "2026-11-24T04:40:10.693935+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:40 IST",
   "source": "screener"
 }

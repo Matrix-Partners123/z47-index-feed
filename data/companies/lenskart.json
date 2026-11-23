@@ -4,7 +4,7 @@
   "name": "Lenskart",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/LENSKART/",
-  "mcap_cr": 124298.0,
+  "mcap_cr": 124306.0,
   "price": 714.0,
   "high": 767.0,
   "low": 401.0,
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": 71.0
+            "value": 72.0
           }
         ]
       },
@@ -446,7 +446,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:08:59.117645+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:08 IST",
+  "generated_at": "2026-11-24T04:39:24.495154+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:39 IST",
   "source": "screener"
 }

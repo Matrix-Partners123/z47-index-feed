@@ -4,7 +4,7 @@
   "name": "Aye Finance",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/AYE/",
-  "mcap_cr": 3389.0,
+  "mcap_cr": 3385.0,
   "price": 137.0,
   "high": 198.0,
   "low": 88.2,
@@ -408,7 +408,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:15:46.317110+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:15 IST",
+  "generated_at": "2026-11-24T04:45:51.997621+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:45 IST",
   "source": "screener"
 }

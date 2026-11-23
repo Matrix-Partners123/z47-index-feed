@@ -4,7 +4,7 @@
   "name": "Shiprocket",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/SHIPROCKET/",
-  "mcap_cr": 7859.0,
+  "mcap_cr": 7864.0,
   "price": 108.0,
   "high": 157.0,
   "low": 107.0,
@@ -391,7 +391,7 @@
   },
   "pe_blank": true,
   "hide_about": true,
-  "generated_at": "2026-11-23T17:17:07.144652+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:17 IST",
+  "generated_at": "2026-11-24T04:47:12.706275+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:47 IST",
   "source": "screener"
 }

@@ -4,7 +4,7 @@
   "name": "Kissht (OnEMI Technology)",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/KISSHT/",
-  "mcap_cr": 6676.0,
+  "mcap_cr": 6679.0,
   "price": 326.0,
   "high": 388.0,
   "low": 190.0,
@@ -402,7 +402,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:16:46.802393+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:16 IST",
+  "generated_at": "2026-11-24T04:46:53.077003+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:46 IST",
   "source": "screener"
 }

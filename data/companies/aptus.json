@@ -4,11 +4,11 @@
   "name": "Aptus Value Housing",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/APTUS/",
-  "mcap_cr": 9585.0,
+  "mcap_cr": 9582.0,
   "price": 191.0,
   "high": 309.0,
   "low": 171.0,
-  "pe": 9.35,
+  "pe": 9.34,
   "roce": 15.4,
   "roe": 20.1,
   "about": "Aptus Value Housing Finance India Ltd is a Home Loan Company. Aptus has been formed to primarily address the housing finance needs of self-employed, low and middle income families primarily from semi-urban and rural areas. Company targets first-time home buyers where collateral is self- occupied residential property.",
@@ -276,7 +276,7 @@
           {
             "key": "5y",
             "label": "5 Years:",
-            "value": -11.0
+            "value": -10.0
           },
           {
             "key": "3y",
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": -31.0
+            "value": -33.0
           }
         ]
       },
@@ -500,7 +500,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:05:14.341965+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:05 IST",
+  "generated_at": "2026-11-24T04:35:31.690219+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:35 IST",
   "source": "screener"
 }

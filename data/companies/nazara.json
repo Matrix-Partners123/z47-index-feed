@@ -4,7 +4,7 @@
   "name": "Nazara Technologies",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/NAZARA/",
-  "mcap_cr": 16748.0,
+  "mcap_cr": 16750.0,
   "price": 410.0,
   "high": 436.0,
   "low": 216.0,
@@ -276,7 +276,7 @@
           {
             "key": "5y",
             "label": "5 Years:",
-            "value": 8.0
+            "value": 7.0
           },
           {
             "key": "3y",
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": 58.0
+            "value": 60.0
           }
         ]
       },
@@ -506,7 +506,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:13:26.475514+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:13 IST",
+  "generated_at": "2026-11-24T04:43:52.444978+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:43 IST",
   "source": "screener"
 }

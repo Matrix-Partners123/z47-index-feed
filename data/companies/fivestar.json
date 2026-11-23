@@ -4,9 +4,9 @@
   "name": "Five-Star Business Finance",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/FIVESTAR/",
-  "mcap_cr": 12677.0,
+  "mcap_cr": 12675.0,
   "price": 429.0,
-  "high": 635.0,
+  "high": 625.0,
   "low": 338.0,
   "pe": 11.4,
   "roce": 14.8,
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": -31.0
+            "value": -30.0
           }
         ]
       },
@@ -494,7 +494,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:12:45.534578+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:12 IST",
+  "generated_at": "2026-11-24T04:35:50.973569+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:35 IST",
   "source": "screener"
 }

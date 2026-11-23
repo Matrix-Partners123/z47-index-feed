@@ -4,7 +4,7 @@
   "name": "E2E Networks",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/E2E/",
-  "mcap_cr": 9323.0,
+  "mcap_cr": 9302.0,
   "price": 452.0,
   "high": 769.0,
   "low": 183.0,
@@ -192,7 +192,7 @@
           {
             "key": "5y",
             "label": "5 Years:",
-            "value": 140.0
+            "value": 138.0
           },
           {
             "key": "3y",
@@ -202,7 +202,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": 83.0
+            "value": 94.0
           }
         ]
       },
@@ -467,7 +467,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:16:06.731569+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:16 IST",
+  "generated_at": "2026-11-24T04:46:12.935416+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:46 IST",
   "source": "screener"
 }

@@ -4,7 +4,7 @@
   "name": "TBO Tek",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/TBOTEK/",
-  "mcap_cr": 16770.0,
+  "mcap_cr": 16777.0,
   "price": 1545.0,
   "high": 1772.0,
   "low": 1004.0,
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": -10.0
+            "value": -11.0
           }
         ]
       },
@@ -495,7 +495,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:11:28.482199+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:11 IST",
+  "generated_at": "2026-11-24T04:41:51.440783+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:41 IST",
   "source": "screener"
 }

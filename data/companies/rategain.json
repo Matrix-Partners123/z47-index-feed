@@ -4,11 +4,11 @@
   "name": "RateGain",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/RATEGAIN/",
-  "mcap_cr": 8022.0,
+  "mcap_cr": 8026.0,
   "price": 677.0,
   "high": 1053.0,
   "low": 437.0,
-  "pe": 28.1,
+  "pe": 28.2,
   "roce": 13.9,
   "roe": 11.9,
   "about": "RateGain Travel Technologies Ltd is the leading distribution technology company globally and the largest Software as a Service (SaaS) provider in the travel and hospitality industry in India. The firm offers travel and hospitality services across different verticals like hotels, airlines, online travel agents, meta-search companies, package providers, car rentals, cruises, and ferries.[1]",
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": -1.0
+            "value": -2.0
           }
         ]
       },
@@ -530,7 +530,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T17:14:46.173241+05:30",
-  "generated_at_ist": "23 Nov 2026, 17:14 IST",
+  "generated_at": "2026-11-24T04:36:49.541702+05:30",
+  "generated_at_ist": "24 Nov 2026, 04:36 IST",
   "source": "screener"
 }
