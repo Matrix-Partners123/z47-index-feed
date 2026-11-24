@@ -276,7 +276,7 @@
           {
             "key": "5y",
             "label": "5 Years:",
-            "value": -2.0
+            "value": -3.0
           },
           {
             "key": "3y",
@@ -500,7 +500,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-24T17:09:41.785484+05:30",
-  "generated_at_ist": "24 Nov 2026, 17:09 IST",
+  "generated_at": "2026-11-25T04:33:54.178027+05:30",
+  "generated_at_ist": "25 Nov 2026, 04:33 IST",
   "source": "screener"
 }

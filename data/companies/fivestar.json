@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": -30.0
+            "value": -29.0
           }
         ]
       },
@@ -494,7 +494,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-24T17:05:39.334817+05:30",
-  "generated_at_ist": "24 Nov 2026, 17:05 IST",
+  "generated_at": "2026-11-25T04:42:18.967937+05:30",
+  "generated_at_ist": "25 Nov 2026, 04:42 IST",
   "source": "screener"
 }
