@@ -4,7 +4,7 @@
   "name": "MapmyIndia",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/MAPMYINDIA/",
-  "mcap_cr": 4482.0,
+  "mcap_cr": 4477.0,
   "price": 817.0,
   "high": 1810.0,
   "low": 790.0,
@@ -500,7 +500,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-25T17:15:01.222015+05:30",
-  "generated_at_ist": "25 Nov 2026, 17:15 IST",
+  "generated_at": "2026-11-26T04:45:04.524135+05:30",
+  "generated_at_ist": "26 Nov 2026, 04:45 IST",
   "source": "screener"
 }

@@ -4,7 +4,7 @@
   "name": "RateGain",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/RATEGAIN/",
-  "mcap_cr": 8066.0,
+  "mcap_cr": 8068.0,
   "price": 681.0,
   "high": 1053.0,
   "low": 437.0,
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": -1.0
+            "value": -6.0
           }
         ]
       },
@@ -530,7 +530,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-25T17:14:40.848358+05:30",
-  "generated_at_ist": "25 Nov 2026, 17:14 IST",
+  "generated_at": "2026-11-26T04:44:44.725577+05:30",
+  "generated_at_ist": "26 Nov 2026, 04:44 IST",
   "source": "screener"
 }

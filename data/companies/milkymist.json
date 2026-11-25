@@ -4,7 +4,7 @@
   "name": "Milky Mist",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/MILKYMIST/",
-  "mcap_cr": 26594.0,
+  "mcap_cr": 26590.0,
   "price": 345.0,
   "high": 356.0,
   "low": 165.0,
@@ -362,7 +362,7 @@
   },
   "website": "https://www.milkymist.com/",
   "website_label": "milkymist.com",
-  "generated_at": "2026-11-25T17:07:53.514226+05:30",
-  "generated_at_ist": "25 Nov 2026, 17:07 IST",
+  "generated_at": "2026-11-26T04:37:55.419711+05:30",
+  "generated_at_ist": "26 Nov 2026, 04:37 IST",
   "source": "screener"
 }
