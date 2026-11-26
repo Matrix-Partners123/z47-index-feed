@@ -4,9 +4,9 @@
   "name": "Go Digit Insurance",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/GODIGIT/",
-  "mcap_cr": 22939.0,
+  "mcap_cr": 22925.0,
   "price": 248.0,
-  "high": 364.0,
+  "high": 360.0,
   "low": 232.0,
   "pe": 28.3,
   "roce": 13.1,
@@ -456,7 +456,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-26T17:04:43.320113+05:30",
-  "generated_at_ist": "26 Nov 2026, 17:04 IST",
+  "generated_at": "2026-11-27T04:34:45.115256+05:30",
+  "generated_at_ist": "27 Nov 2026, 04:34 IST",
   "source": "screener"
 }

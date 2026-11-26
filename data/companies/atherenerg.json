@@ -4,7 +4,7 @@
   "name": "Ather Energy",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/ATHERENERG/",
-  "mcap_cr": 75686.0,
+  "mcap_cr": 75690.0,
   "price": 1906.0,
   "high": 2023.0,
   "low": 589.0,
@@ -202,7 +202,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": 175.0
+            "value": 168.0
           }
         ]
       },
@@ -356,7 +356,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-26T17:10:52.980049+05:30",
-  "generated_at_ist": "26 Nov 2026, 17:10 IST",
+  "generated_at": "2026-11-27T04:40:17.358386+05:30",
+  "generated_at_ist": "27 Nov 2026, 04:40 IST",
   "source": "screener"
 }

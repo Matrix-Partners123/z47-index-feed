@@ -4,7 +4,7 @@
   "name": "Aptus Value Housing",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/APTUS/",
-  "mcap_cr": 9359.0,
+  "mcap_cr": 9361.0,
   "price": 187.0,
   "high": 309.0,
   "low": 171.0,
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": -34.0
+            "value": -33.0
           }
         ]
       },
@@ -500,7 +500,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-26T17:05:23.852735+05:30",
-  "generated_at_ist": "26 Nov 2026, 17:05 IST",
+  "generated_at": "2026-11-27T04:41:28.233052+05:30",
+  "generated_at_ist": "27 Nov 2026, 04:41 IST",
   "source": "screener"
 }

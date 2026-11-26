@@ -4,7 +4,7 @@
   "name": "Ola Electric",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/OLAELEC/",
-  "mcap_cr": 15921.0,
+  "mcap_cr": 15926.0,
   "price": 31.9,
   "high": 48.2,
   "low": 20.8,
@@ -272,7 +272,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": -20.0
+            "value": -22.0
           }
         ]
       },
@@ -481,7 +481,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-26T17:12:02.080873+05:30",
-  "generated_at_ist": "26 Nov 2026, 17:12 IST",
+  "generated_at": "2026-11-27T04:35:26.049253+05:30",
+  "generated_at_ist": "27 Nov 2026, 04:35 IST",
   "source": "screener"
 }

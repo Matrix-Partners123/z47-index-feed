@@ -4,7 +4,7 @@
   "name": "Urban Company",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/URBANCO/",
-  "mcap_cr": 29108.0,
+  "mcap_cr": 29064.0,
   "price": 171.0,
   "high": 184.0,
   "low": 96.4,
@@ -286,7 +286,7 @@
           {
             "key": "1y",
             "label": "1 Year:",
-            "value": 24.0
+            "value": 25.0
           }
         ]
       },
@@ -460,7 +460,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-26T17:05:04.916775+05:30",
-  "generated_at_ist": "26 Nov 2026, 17:05 IST",
+  "generated_at": "2026-11-27T04:35:04.968742+05:30",
+  "generated_at_ist": "27 Nov 2026, 04:35 IST",
   "source": "screener"
 }

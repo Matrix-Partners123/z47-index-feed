@@ -4,7 +4,7 @@
   "name": "Ixigo",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/IXIGO/",
-  "mcap_cr": 7543.0,
+  "mcap_cr": 7547.0,
   "price": 171.0,
   "high": 277.0,
   "low": 136.0,
@@ -445,7 +445,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-26T17:06:23.040797+05:30",
-  "generated_at_ist": "26 Nov 2026, 17:06 IST",
+  "generated_at": "2026-11-27T04:43:15.632732+05:30",
+  "generated_at_ist": "27 Nov 2026, 04:43 IST",
   "source": "screener"
 }
