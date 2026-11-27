@@ -4,8 +4,8 @@
   "name": "Lenskart",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/LENSKART/",
-  "mcap_cr": 124707.0,
-  "price": 717.0,
+  "mcap_cr": 124880.0,
+  "price": 718.0,
   "high": 767.0,
   "low": 402.0,
   "pe": 159.0,
@@ -20,7 +20,7 @@
   "nse_url": "https://www.nseindia.com/get-quotes/equity?symbol=LENSKART",
   "screener_id": "1285752",
   "ratios_ok": 6,
-  "daily_pct": -0.52,
+  "daily_pct": 0.22,
   "screener_consolidated": true,
   "financial_basis": "consolidated",
   "financial_source_url": "https://www.screener.in/company/LENSKART/consolidated/",
@@ -446,7 +446,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-27T04:38:47.488318+05:30",
-  "generated_at_ist": "27 Nov 2026, 04:38 IST",
+  "generated_at": "2026-11-27T17:09:19.874759+05:30",
+  "generated_at_ist": "27 Nov 2026, 17:09 IST",
   "source": "screener"
 }
