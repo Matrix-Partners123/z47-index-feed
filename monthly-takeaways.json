@@ -400,11 +400,11 @@
     "status": "month_to_date",
     "start_price_date": "2026-10-30",
     "end_price_date": "2026-11-27",
-    "z47_level": 138.0916,
-    "z47_month_return_pct": 6.9066,
-    "nifty_month_return_pct": 9.409,
-    "excess_return_pp": -2.5024,
-    "z47_since_base_pct": 38.0916,
-    "nifty_since_base_pct": 23.368
+    "z47_level": 138.0112,
+    "z47_month_return_pct": 6.8444,
+    "nifty_month_return_pct": 9.3212,
+    "excess_return_pp": -2.4768,
+    "z47_since_base_pct": 38.0112,
+    "nifty_since_base_pct": 23.2689
   }
 ]
