@@ -4,7 +4,7 @@
   "name": "Fractal Analytics",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/FRACTAL/",
-  "mcap_cr": 14114.0,
+  "mcap_cr": 14116.0,
   "price": 809.0,
   "high": 1120.0,
   "low": 696.0,
@@ -422,7 +422,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-27T17:16:50.839580+05:30",
-  "generated_at_ist": "27 Nov 2026, 17:16 IST",
+  "generated_at": "2026-11-28T04:45:13.348934+05:30",
+  "generated_at_ist": "28 Nov 2026, 04:45 IST",
   "source": "screener"
 }

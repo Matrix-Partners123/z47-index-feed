@@ -4,7 +4,7 @@
   "name": "Zetwerk",
   "exchange": "NSE",
   "screener_url": "https://www.screener.in/company/ZETWERK/",
-  "mcap_cr": 31723.0,
+  "mcap_cr": 31727.0,
   "price": 187.0,
   "high": 193.0,
   "low": 127.0,
@@ -388,8 +388,8 @@
       ]
     }
   },
-  "generated_at": "2026-11-27T17:09:42.637809+05:30",
-  "generated_at_ist": "27 Nov 2026, 17:09 IST",
+  "generated_at": "2026-11-28T04:39:26.534818+05:30",
+  "generated_at_ist": "28 Nov 2026, 04:39 IST",
   "source": "screener",
   "website": "https://www.zetwerk.com/",
   "website_label": "zetwerk.com"

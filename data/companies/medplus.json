@@ -531,5 +531,8 @@
   },
   "generated_at": "2026-11-27T17:13:49.760672+05:30",
   "generated_at_ist": "27 Nov 2026, 17:13 IST",
-  "source": "screener"
+  "source": "screener",
+  "refresh_status": "cached",
+  "refresh_error": "HTTP Error 429: Too Many Requests",
+  "last_attempt_at": "2026-11-28T04:42:42.133981+05:30"
 }
